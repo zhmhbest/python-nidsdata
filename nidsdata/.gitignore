@@ -1,0 +1,4 @@
+**data/
+*.gz
+*.ok
+*.lock
