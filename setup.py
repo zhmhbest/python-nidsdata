@@ -11,8 +11,8 @@ setuptools.setup(
     author="zhmh",
     author_email="zhmhbest@gmail.com",
     name="nidsdata",
-    version='0.0.2',
-    description="Python Common Command",
+    version='0.0.3',
+    description="NIDS Dataset",
     keywords="nids data",
     license="MIT",  # https://choosealicense.com/
     url="https://github.com/zhmhbest/python-nidsdata",
