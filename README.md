@@ -1,6 +1,6 @@
 # python-nidsdata
 
-这是一个封装了KDDCup99、NSL-KDD、UNSW-NB15等入侵监测数据集的Python包。
+这是一个封装了NIDS（包括KDDCup99、NSL-KDD、UNSW-NB15）数据集的Python包。
 
 ## 安装
 
